@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ITERATIONS 1000
+#define ITERATIONS 10000
 #define NS_PER_SEC 1000000000
 
 // Function to print benchmark stats
